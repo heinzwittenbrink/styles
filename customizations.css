@@ -18,8 +18,8 @@ section {font-family: 'Source Code Pro', monospace;}
 .reveal h5, 
 .reveal h6 {font-family: 'Oswald', sans-serif; text-transform: none; !important} 
 
-.reveal h1 {color: white; 36px;}
-.reveal h4 {font-size: }
+.reveal h1 {color: white; font-size: 36px; !important}
+.reveal h4 
 
 section.level1 {background-color: rgb(198,0,0); border:1px solid red;}
 
