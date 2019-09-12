@@ -19,6 +19,8 @@ section {font-family: 'Source Code Pro', monospace;}
 
 section.level1 {background-color: rgb(198,0,0); border:1px solid red;}
 
+.reveal h1 {color: white; !important}
+
 
 
 p.rights { font-size: small;
