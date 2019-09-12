@@ -9,7 +9,6 @@
 
 section {font-family: 'Source Code Pro', monospace;}
 
-<!-- .reveal {font-size: 18px; !important} -->
 
 .reveal h1, 
 .reveal h2, 
@@ -18,14 +17,7 @@ section {font-family: 'Source Code Pro', monospace;}
 .reveal h5, 
 .reveal h6 {font-family: 'Oswald', sans-serif; text-transform: none; !important} 
 
-.reveal h1 {color: white; font-size: 36px; !important}
-.reveal h4 
 
-section.level1 {background-color: rgb(198,0,0); border:1px solid red;}
-
-<!-- .reveal h2 {text-align: left;} -->
-
-<!-- li {font-size: 18px;} -->
 
 p.rights { font-size: small;
   color:gray;
