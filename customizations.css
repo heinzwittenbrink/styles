@@ -21,7 +21,7 @@ section.level1 {background-color: rgb(198,0,0); border:1px solid red;}
 
 section.level1 h1 {color: white; !important}
 
-.reveal .slides h2 {text-align: left; !important} 
+.reveal .slides h2, ul, li, blockquote {text-align: left; !important} 
 
 p.rights { font-size: small;
   color:gray;
