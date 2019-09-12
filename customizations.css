@@ -23,7 +23,9 @@ section {font-family: 'Source Code Pro', monospace;}
 
 section.level1 {background-color: rgb(198,0,0); border:1px solid red;}
 
+.reveal h2 {text-align: left;}
 
+li {font-size: 18px;}
 
 p.rights { font-size: small;
   color:gray;
