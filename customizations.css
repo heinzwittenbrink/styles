@@ -3,10 +3,15 @@
 / **********************************************/
 
 @import url('https://fonts.googleapis.com/css?family=Oswald&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Source+Code+Pro&display=swap');
 
 
 
-section {font-family: 'Oswald', sans-serif;}
+section {font-family: 'Source Code Pro', monospace;}
+
+
+
+h1, h2 {font-family: 'Oswald', sans-serif;}
 
 
 
