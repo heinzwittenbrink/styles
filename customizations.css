@@ -18,10 +18,10 @@ section {font-family: 'Source Code Pro', monospace;}
 .reveal h5, 
 .reveal h6 {font-family: 'Oswald', sans-serif; text-transform: none; !important} 
 
-.reveal h3 {font-size: 4em; color: white;}
-.reveal h4 {font-size: 3em}
+.reveal h3 {color: white;}
+.reveal h4 {font-size: 36px;}
 
-section.title {background-color: rgb(198,0,0);}
+section.title-slide {background-color: rgb(198,0,0);}
 
 
 
